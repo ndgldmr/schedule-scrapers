@@ -1,0 +1,53 @@
+BSSE,BSEGA1H(Bally Sports Southeast)-90585
+MASN,MASNHD(Mid-Atlantic Sports Network)-90606
+MLBN,MLBN(MLB Network)-40015
+NBCSBA,NBCSBA(NBC Sports Bay Area)-947
+YES,YES(Yes Network)-4771
+MSN2,MASN2(Mid Atlantic Sports 2)-91154
+NESN,NESN(New England Sports Network)-914
+BSWI,BSWI(Bally Sports Wisconsin)-90634
+MARQ,MARQ(Marquee Sports Network)-91411
+BSDET,BSDD(Bally Sports Detroit)-90646
+BSSUN,BSNTPAH(Bally Sports Sun HD (Tampa Feed))-91750
+NBC 10,WCAU(NBC)-8039
+BSSW,BSSW(Bally Sports Southwest)-90274
+ATTP,ATTPT(AT&T SportsNet Pittsburgh)-90378
+BSOH,BSOH(Bally Sports Ohio)-91413
+SNET,SN1HD(Sportsnet One)-91798
+BSMW,BSNHDMW(Bally Sports Midwest)-90635
+BSNO,BSNOR(Bally Sports North)-904
+BSKC,BSKC1(Bally Sports Kansas City)-90655
+SNY,SNY(SportsNet New York)-90466
+BSFL,BSFLHD(Bally Sports Florida)-90653
+ESPN,ESPN(ESPN)-8066
+ATTR,ATTRM(AT&T SportsNet Rocky Mountain)-929
+BSSD,BSSDAZ(Bally Sports San Diego)-90629
+BSW,BSW(Bally Sports West)-926
+NBCSCA,NBSCAHD(NBSCA)-91793
+BSAZ,BSAZ(Bally Sports Arizona)-91225
+SNLA,SSNLA(Spectrum Sportsnet LA)-91475
+BSGL,BSGLHD(Bally Sports Great Lakes)-90644
+RSNW,RTNW(Root Sports Northwest)-90374
+NBCSCH,NBCSCH(NBC Sports Chicago)-90372
+ATTH,ATTSW(AT&T SportsNet Southwest)-90373
+BSAZX,BSAZ(Bally Sports Arizona)-91225
+BSMWX,BSNHDMW(Bally Sports Midwest)-90635
+FS1,FS1(Fox Sports 1)-9959
+FOX,FOX
+BSSO,BSCR1HD(Bally Sports South)-91239
+NBCSP,NBCSPA(NBC Sports Philadelphia)-90413
+BSNOX,BSNOR(Bally Sports North)-904
+NBCSP+,NBCSPA(NBC Sports Philadelphia)-90413
+Amaz PV,Amazon Prime Video
+TBS,TBS(TBS)-1336
+ATT2,ATTPT(AT&T SportsNet Pittsburgh)-90378
+NBCSCA+,NBSCAHD(NBSCA)-91793
+Apple TV+, Apple TV+
+SNET-1,SN1HD(Sportsnet One)-91798
+BSSC,BSSC(Bally Sports SoCal)-91412
+BSSWX,BSSW(Bally Sports Southwest)-90274
+NESN+,NESN(New England Sports Network)-914
+WPIX,WPIX(CW)-8012
+Peacock,Peacock
+NBC,NBC
+ESPN2,ESPN2(ESPN2)-67

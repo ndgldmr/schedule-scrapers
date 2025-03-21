@@ -1,0 +1,30 @@
+Atlanta Hawks/State Farm Arena/Atlanta, Georgia
+Boston Celtics/TD Garden/Boston, Massachusetts
+Brooklyn Nets/Barclays Center/Brooklyn, New York
+Charlotte Hornets/Spectrum Center/Charlotte, North Carolina
+Chicago Bulls/United Center/Chicago, Illinois
+Cleveland Cavaliers/Rocket Mortgage FieldHouse/Cleveland, Ohio
+Dallas Mavericks/American Airlines Center/Dallas, Texas
+Denver Nuggets/Ball Arena/Denver, Colorado
+Detroit Pistons/Little Caesars Arena/Detroit, Michigan
+Golden State Warriors/Chase Center/San Francisco, California
+Houston Rockets/Toyota Center/Houston, Texas
+Indiana Pacers/Bankers Life Fieldhouse/Indianapolis, Indiana
+Los Angeles Clippers/Crypto.com Arena/Los Angeles, California
+Los Angeles Lakers/Staples Center/Los Angeles, California
+Memphis Grizzlies/FedExForum/Memphis, Tennessee
+Miami Heat/FTX Arena/Miami, Florida
+Milwaukee Bucks/Fiserv Forum/Milwaukee, Wisconsin
+Minnesota Timberwolves/Target Center/Minneapolis, Minnesota
+New Orleans Pelicans/Smoothie King Center/New Orleans, Louisiana
+New York Knicks/Madison Square Garden/New York, New York
+Oklahoma City Thunder/Paycom Center/Oklahoma City, Oklahoma
+Orlando Magic/Amway Center/Orlando, Florida
+Philadelphia 76ers/Wells Fargo Center/Philadelphia, Pennsylvania
+Phoenix Suns/Footprint Center/Phoenix, Arizona
+Portland Trail Blazers/Moda Center/Portland, Oregon
+Sacramento Kings/Golden 1 Center/Sacramento, California
+San Antonio Spurs/AT&T Center/San Antonio, Texas
+Toronto Raptors/Scotiabank Arena/Toronto, Ontario, Canada
+Utah Jazz/Vivint Arena/Salt Lake City, Utah
+Washington Wizards/Capital One Arena/Washington, D.C.

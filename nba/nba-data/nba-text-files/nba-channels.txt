@@ -1,0 +1,45 @@
+ClipperVision - ClipperVision
+NBCSCA - NBSCAHD(NBSCA)-91793
+NBA TV - NBATV(NBA TV)-5230
+NBA League Pass - NBA League Pass
+SN - SN1HD(Sportsnet One)-91798
+NBC Sports Philadelphia - NBCSPA(NBC Sports Philadelphia)-90413
+ROOT SPORTS PLUS - RTNW3(Root Sports Northwest Plus)-91683
+Spectrum SportsNet - SSNLA(Spectrum Sportsnet LA)-91475
+Bally Sports NO - Bally Sports New Orleans
+NBC Sports Chicago - NBCSCH(NBC Sports Chicago)-90372
+Bally Sports SoCal - BSSC(Bally Sports SoCal)-91412
+Bally Sports Indiana - Bally Sports Indiana
+NBC Sports Boston - NBCSB(NBC Sports Boston)-6557
+ATTSN-RM - ATTRM(AT&T SportsNet Rocky Mountain)-929
+Bally Sports North - BSNOR(Bally Sports North)-904
+Bally Sports Sun - SUN(Bally Sports Sun)-90654
+Bally Sports DET - BSDD(Bally Sports Detroit)-90646
+Bally Sports Florida - BSFLHD(Bally Sports Florida)-90653
+Altitude - ALTSPRT(Altitude Sports Channel)-91866
+Bally Sports WI - BSWI(Bally Sports Wisconsin)-90634
+Bally Sports SW-SA - BSSW(Bally Sports Southwest)-90274
+Bally Sports SE-MEM - BSEGA1H(Bally Sports Southeast)-90585
+MSG - MSG(MSG)-8906
+Bally Sports SE-CHA - BSEGA1H(Bally Sports Southeast)-90585
+Bally Sports SW-DAL - BSSW(Bally Sports Southwest)-90274
+NBC Sports Bay Area - NBCSBA(NBC Sports Bay Area)-947
+NBCSWA - NBCSWA(NBC Sports Washington)-90460
+ATTSN-SW - ATTSW(AT&T SportsNet Southwest)-90373
+Bally Sports AZ - BSAZ(Bally Sports Arizona)-91225
+YES - YES(Yes Network)-4771
+Bally Sports OK - BSSW4HD(Bally Sports Oklahoma)-90832
+Bally Sports SE-ATL - BSEGA1H(Bally Sports Southeast)-90585
+Bally Sports Ohio - BSOH(Bally Sports Ohio)-91413
+Bally Sports North Extra - Bally Sports North Extra
+KTLA - KTLA(CW)-8025
+ESPN - ESPN(ESPN)-8066
+TNT - TNT(TNT)-8071
+KENS - KENS(CBS)-8133
+CW35 (English) / KNIC (Spanish) - CW35 (English) / KNIC (Spanish)
+BSDET Extra - Bally Sports Detriot Extra
+Altitude 2 - Altitude Sports 2
+NBCSCH+ - NBCSCH(NBC Sports Chicago)-90372
+WWOR-My9 - WWOR(MNT)-90249
+TSN - TSN(The Sports Network)-7070
+CW35 - KMYS CW35

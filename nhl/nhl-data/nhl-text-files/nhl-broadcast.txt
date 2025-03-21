@@ -1,0 +1,67 @@
+MSG-B: MSGSNZ3(MSG Western New York)-91794
+RDS: RDS(Reseau des Sports)-7074
+MSGSN: MSG(MSG)-8906
+BSFL: BSFLHD(Bally Sports Florida)-90653
+BSWI: BSWI(Bally Sports Wisconsin)-90634
+ATTSN-RM: ATTRM(AT&T SportsNet Rocky Mountain)-929
+NBCSCH: NBCSCH(NBC Sports Chicago)-90372
+BSW: BSW(Bally Sports West)-926
+ROOT-NW: RTNW(Root Sports Northwest)-90374
+BSOH: BSOH(Bally Sports Ohio)-91413
+BSSUN: SUN(Bally Sports Sun)-90654
+NBCSCA: NBC Sports California
+NBCSP: NBCSPA(NBC Sports Philadelphia)-90413
+BSSC: BSSC(Bally Sports SoCal)-91412
+BSMW: BSNHDMW(Bally Sports Midwest)-90635
+BSWIX: BSWI(Bally Sports Wisconsin)-90634
+RDSI: RDS(Reseau des Sports)-7074
+BSSUNX: SUN(Bally Sports Sun)-90654
+NBCSP+: NBSPPHD(NBC Sports Philadelphia Plus)-91502
+MSGSN2: MSG2HD(MSG 2)-91168
+NBCSCH+: NBCSCH(NBC Sports Chicago)-90372
+MSG 2: MSG2HD(MSG 2)-91168
+RDS2: RDS(Reseau des Sports)-7074
+BSFLX: BSFLHD(Bally Sports Florida)-90653
+BSNX: BSNOR(Bally Sports North)-904
+KCOP-13: KCOP(KCOP)-26
+None: None
+ATTSN-PT: ATTPT(AT&T SportsNet Pittsburgh)-90378
+BSDET: BSDD(Bally Sports Detroit)-90646
+TSN4: The Sports Network 4
+KONG: KONG(KONG)-1890
+TSN2: TSN2HD(The Sports Network 2)-91478
+TSN3: The Sports Network 3
+BSSO: BSSOHD(Bally Sports South)-90377
+SN1: SN1HD(Sportsnet One)-91798
+TVAS2: TVA Sports 2
+TSN5: The Sports Network 5
+BSAZ: BSAZ(Bally Sports Arizona)-91225
+HNIC: Hockey Night In Canada
+TVAS: TVA Sports
+BSSWX: BSSW(Bally Sports Southwest)-90274
+NBCSWA: NBCSWA(NBC Sports Washington)-90460
+ALT2: ALTSPRT(Altitude Sports Channel)-91866
+BSSW: BSSW(Bally Sports Southwest)-90274
+SN360: SN360(Sportsnet 360)-7073
+ALT: ALTSPRT(Altitude Sports Channel)-91866
+SN: SPECSN(Spectrum SportsNet HD)-90741
+BSAZX: BSAZ(Bally Sports Arizona)-91225
+SNW: RSWSC(SportsNet West)-7072
+BSDETX: BSDD(Bally Sports Detroit)-90646
+NBCSWA+: NBCSWA(NBC Sports Washington)-90460
+SNP: Sportsnet Pacific
+CBC: CBCT(CBC Prince Edward Island)-7105
+SNO: Sportsnet Ontario
+SNOL: Sportsnet Oilers
+SNE: SNE(SportsNet East)-7071
+SNF: SNF
+BSN: BSNOR(Bally Sports North)-904
+NESN: NESN(New England Sports Network)-914
+MSG+: MSGPL(MSG+)-8944
+MSG: MSG(MSG)-8906
+KTNV: KTNV(ABC)-8232
+CITY: CHMI(Citytv Winnipeg)-7026
+ESPN: ESPN(ESPN)-8066
+TNT: TNT(TNT)-8071
+NHL Network: NHLNET(NHL Network)-10
+MSG Western New York: MSGSNZ3(MSGSNZ3)-91794

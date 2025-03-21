@@ -1,0 +1,30 @@
+Atlanta,Atlanta United FC
+Austin,Austin FC
+Montréal,CF Montreal
+Charlotte,Charlotte FC
+Chicago,Chicago Fire FC
+Colorado,Colorado Rapids
+Columbus,Columbus Crew SC
+D.C.,D.C. United
+Cincinnati,FC Cincinnati
+Dallas,FC Dallas
+Houston,Houston Dynamo FC
+Miami,Inter Miami CF
+LA,Los Angeles Galaxy
+LAFC,Los Angeles FC
+Minnesota,Minnesota United FC
+Nashville,Nashville SC
+New England,New England Revolution
+New York,New York Red Bulls
+New York City,New York City FC
+Orlando,Orlando City SC
+Philadelphia,Philadelphia Union
+Portland,Portland Timbers
+Salt Lake,Real Salt Lake
+San Jose,San Jose Earthquakes
+Seattle,Seattle Sounders FC
+Kansas City,Sporting Kansas City
+St. Louis,St. Louis City SC
+Toronto,Toronto FC
+Vancouver,Vancouver Whitecaps FC
+León,León
